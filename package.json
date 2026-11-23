@@ -1,0 +1,25 @@
+{
+  "name": "@cairnscale/seo-geo-webmcp-audit",
+  "version": "1.0.0",
+  "description": "Zero-dependency live HTTP SEO, Schema-to-DOM grounding, Accept: text/markdown twin, Content-Signal, IndexNow key, and WebMCP readiness auditor.",
+  "type": "module",
+  "main": "./index.mjs",
+  "bin": {
+    "seo-geo-webmcp-audit": "./index.mjs"
+  },
+  "scripts": {
+    "test": "node --test test.mjs"
+  },
+  "keywords": [
+    "seo",
+    "geo",
+    "webmcp",
+    "llms-txt",
+    "content-signal",
+    "markdown-for-agents",
+    "indexnow"
+  ],
+  "homepage": "https://cairnscale.uk/guides/technical-seo-geo-webmcp-standard-2026/",
+  "author": "cairnscale <hello@cairnscale.uk>",
+  "license": "MIT"
+}
