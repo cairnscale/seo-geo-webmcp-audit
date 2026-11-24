@@ -1,7 +1,7 @@
 {
   "name": "@cairnscale/seo-geo-webmcp-audit",
   "version": "1.0.0",
-  "description": "Zero-dependency live HTTP SEO, Schema-to-DOM grounding, Accept: text/markdown twin, Content-Signal, IndexNow key, and WebMCP readiness auditor.",
+  "description": "Zero-dependency live HTTP SEO, Schema-to-DOM check, Accept: text/markdown twin, Content-Signal, IndexNow key, and WebMCP readiness auditor.",
   "type": "module",
   "main": "./index.mjs",
   "bin": {
@@ -20,6 +20,13 @@
     "indexnow"
   ],
   "homepage": "https://cairnscale.uk/guides/technical-seo-geo-webmcp-standard-2026/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cairnscale/seo-geo-webmcp-audit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cairnscale/seo-geo-webmcp-audit/issues"
+  },
   "author": "cairnscale <hello@cairnscale.uk>",
   "license": "MIT"
 }
